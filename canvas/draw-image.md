@@ -1,5 +1,5 @@
 # Resources for Draw Image Tutorial
-- Tags: canvas, drawImage, preloader, translate, rotate, scale
+- Tags: canvas, drawImage, translate, rotate, scale, preloader
 
 [**I. Links**](#i-links)
 
