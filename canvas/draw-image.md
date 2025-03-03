@@ -13,12 +13,12 @@
 
 ---
 
-## Links
+## I. Links
 - YouTube Video -->
 
 ---
 
-## Start Code
+## II. Start Code
 
 **canvas-draw-image.html**
 
@@ -28,12 +28,12 @@
 
 ---
 
-## Files
+## III. Files
 - [tiger.png](../_files/tiger.png) image
 
 ---
 
-## Notes
+## IV. Notes
 
 ### 1. What is canvas?
 - *"The Canvas API provides a means for drawing graphics via JavaScript and the HTML <canvas> element. It can be used for animation, game graphics, data visualization, photo manipulation, and real-time video processing"*
@@ -49,7 +49,7 @@
 
 ---
 
-## References
+## V. References
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
 - https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/getContext
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/fillStyle
