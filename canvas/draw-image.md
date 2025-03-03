@@ -23,7 +23,62 @@
 **canvas-draw-image.html**
 
 ```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Canvas Image Draw</title>
+	<style>
+		canvas{
+			border:1px solid black;
+		}
+	</style>
+</head>
+<body>
+<canvas width="600" height="600"></canvas>
 
+<script>
+
+
+
+
+
+//   We'll demo this helpful function at the end of the video
+//   const preloadImages = (urls, callback) => {
+//     if (!Array.isArray(urls) || urls.length === 0) {
+//         console.warn("No valid image URLs provided.");
+//         callback([]);
+//         return;
+//     }
+  
+//     const loadedImages = new Array(urls.length);
+//     let remainingImages = urls.length;
+  
+//     urls.forEach((url, index) => {
+//         const img = new Image();
+      
+//         img.onload = () => {
+//             loadedImages[index] = img;
+//             if (--remainingImages === 0) {
+//                 callback(loadedImages);
+//             }
+//         };
+      
+//         img.onerror = () => {
+//             console.error(`Failed to load image at URL: ${url}`);
+//             loadedImages[index] = null; // Maintain array index integrity
+//             if (--remainingImages === 0) {
+//                 callback(loadedImages);
+//             }
+//         };
+      
+//         img.src = url;
+//     });
+// };
+
+</script>
+</body>
+</html>
 ```
 
 ---
