@@ -26,13 +26,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8" />
-	<title>Canvas Image Draw</title>
-	<style>
-		canvas{
-			border:1px solid black;
-		}
-	</style>
+  <meta charset="utf-8" />
+  <title>Canvas Image Draw</title>
+  <style>
+    canvas{
+      border:1px solid black;
+    }
+  </style>
 </head>
 <body>
 <canvas width="600" height="600"></canvas>
