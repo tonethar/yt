@@ -37,47 +37,7 @@
 </head>
 <body>
 <canvas width="600" height="600"></canvas>
-
-<script>
-
-
-
-
-
-//   We'll demo this helpful function at the end of the video
-//   const preloadImages = (urls, callback) => {
-//     if (!Array.isArray(urls) || urls.length === 0) {
-//         console.warn("No valid image URLs provided.");
-//         callback([]);
-//         return;
-//     }
-  
-//     const loadedImages = new Array(urls.length);
-//     let remainingImages = urls.length;
-  
-//     urls.forEach((url, index) => {
-//         const img = new Image();
-      
-//         img.onload = () => {
-//             loadedImages[index] = img;
-//             if (--remainingImages === 0) {
-//                 callback(loadedImages);
-//             }
-//         };
-      
-//         img.onerror = () => {
-//             console.error(`Failed to load image at URL: ${url}`);
-//             loadedImages[index] = null; // Maintain array index integrity
-//             if (--remainingImages === 0) {
-//                 callback(loadedImages);
-//             }
-//         };
-      
-//         img.src = url;
-//     });
-// };
-
-</script>
+<script></script>
 </body>
 </html>
 ```
@@ -102,8 +62,8 @@
 ### 3. Preloading images
 - Before we can draw an image, the browser has to load it into your computers memory from either a local disk, or from a web server
 - If we try to use JavaScript to draw the image onto the canvas before it's loaded, we won't get an explicit error message, but our code will fail to draw the image to the canvas
-- We'll also look at how to preload multiple images at the same time
-- Finally, we'll discuss when you might not need to pre-load images at all!
+- We'll discuss when you might not need to pre-load images at all!
+- *In a future video I'll demo how to write a function that will preload multiple images files*
 
 ---
 
