@@ -1,6 +1,6 @@
 # Canvas `.drawImage()` Tutorial
 - Tags: canvas, drawImage, translate, rotate, scale, preloader
-- Prereqs: HTML & basic JavaScript literacy, a little canvas
+- Prereqs: HTML & basic JavaScript literacy, some familiarity with canvas drawing API
 
 [**I. Links**](#i-links)
 
