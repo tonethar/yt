@@ -15,7 +15,7 @@
 ---
 
 ## I. Links
-- YouTube Video Link (#i-links)
+- [YouTube Video Link](#i-links)
 
 ---
 
