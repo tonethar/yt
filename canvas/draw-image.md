@@ -1,5 +1,6 @@
 # Resources for Draw Image Tutorial
 - Tags: canvas, drawImage, translate, rotate, scale, preloader
+- Prereqs: HTML & basic JavaScript
 
 [**I. Links**](#i-links)
 
@@ -100,7 +101,9 @@
    
 ### 3. Preloading images
 - Before we can draw an image, the browser has to load it into your computers memory from either a local disk, or from a web server
-- If we try to use JavaScript to draw the image onto the canvas before it's loaded, we won't get an error message, instead it will fail silently and not draw the image
+- If we try to use JavaScript to draw the image onto the canvas before it's loaded, we won't get an explicit error message, but our code will fail to draw the image to the canvas
+- We'll also look at how to preload multiple images at the same time
+- Finally, we'll discuss when you might not need to pre-load images at all!
 
 ---
 
