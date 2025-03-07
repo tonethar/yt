@@ -1,6 +1,6 @@
 # Resources for Draw Image Tutorial
 - Tags: canvas, drawImage, translate, rotate, scale, preloader
-- Prereqs: HTML & basic JavaScript
+- Prereqs: HTML & basic JavaScript literacy
 
 [**I. Links**](#i-links)
 
