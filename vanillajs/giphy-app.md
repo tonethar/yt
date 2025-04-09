@@ -20,6 +20,7 @@
 ## I. Links
 - [YouTube Video Link](#)
 - Part 1
+  - https://developers.giphy.com/explorer/
 - Part 2
 - Part 3
 - Part 4
