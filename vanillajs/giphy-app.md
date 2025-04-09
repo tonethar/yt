@@ -5,14 +5,6 @@
 
 [**I. Links**](#i-links)
 
-- Part V
-  - Font
-    - https://fonts.google.com/specimen/Kablammo
-  - Bulma
-    - https://bulma.io/documentation/start/overview/
-    - https://bulma.io/documentation/components/card/
-    - https://www.softwaretestinghelp.com/bulma-columns-layout-and-forms/#Form_Addon_Form_Group_and_Horizontal_Form
-
 [**II. Start Code**](#ii-start-code)
 
 [**III. Files**](#iii-files)
@@ -27,6 +19,17 @@
 
 ## I. Links
 - [YouTube Video Link](#)
+- Part 1
+- Part 2
+- Part 3
+- Part 4
+- Part 5
+  - Font
+    - https://fonts.google.com/specimen/Kablammo
+  - Bulma
+    - https://bulma.io/documentation/start/overview/
+    - https://bulma.io/documentation/components/card/
+    - https://www.softwaretestinghelp.com/bulma-columns-layout-and-forms/#Form_Addon_Form_Group_and_Horizontal_Form
 
 ---
 
