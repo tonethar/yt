@@ -1,6 +1,6 @@
 # Giphy App (Vanilla JS)
 
-- Tags: vanillajs, ajax, fetch, giphy
+- Tags: vanillajs, ajax, fetch, giphy, bulma
 - Prereqs: HTML & basic JavaScript literacy, familarity with Ajax (e.g. `XHR` or `fetch`)
 
 [**I. Links**](#i-links)
