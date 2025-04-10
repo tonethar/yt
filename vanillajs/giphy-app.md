@@ -12,8 +12,6 @@
 [**IV. Notes**](#iv-notes)
 
 [**V. References**](#v-references)
-- https://www.freecodecamp.org/news/learn-bulma-in-5-minutes-ec5188c53e83/
-- https://devhints.io/bulma
 
 ---
 
@@ -53,4 +51,5 @@
 ---
 
 ## V. References
-
+- https://www.freecodecamp.org/news/learn-bulma-in-5-minutes-ec5188c53e83/
+- https://devhints.io/bulma
