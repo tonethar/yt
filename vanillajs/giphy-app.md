@@ -20,6 +20,7 @@
 - Part 1
   - https://developers.giphy.com/explorer/
   - https://www.freecodecamp.org/news/javascript-keycode-list-keypress-event-key-codes/
+  - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 - Part 2
 - Part 3
 - Part 4
