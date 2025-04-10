@@ -21,6 +21,7 @@
 - [YouTube Video Link](#)
 - Part 1
   - https://developers.giphy.com/explorer/
+  - https://www.freecodecamp.org/news/javascript-keycode-list-keypress-event-key-codes/
 - Part 2
 - Part 3
 - Part 4
